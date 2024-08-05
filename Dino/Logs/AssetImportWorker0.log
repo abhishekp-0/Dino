@@ -453,3 +453,13 @@ Start importing Assets/PreFabs/Level1.prefab using Guid(8ff7852c979301f4b89a0c93
  -> (artifact id: '2f734da0b225f06926757b354d423249') in 0.075603 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 54
+========================================================================
+Received Import Request.
+  Time since last request: 74.943987 seconds.
+  path: Assets/PreFabs/Level1.prefab
+  artifactKey: Guid(8ff7852c979301f4b89a0c937978bafa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PreFabs/Level1.prefab using Guid(8ff7852c979301f4b89a0c937978bafa) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '09d930cbfdb5e96ea72607f0583e0e04') in 0.007221 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 54
