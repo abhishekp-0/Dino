@@ -443,3 +443,13 @@ Start importing Assets/Scripts/AnimatedSprite.cs using Guid(5a0a4a3e568691d40b50
  -> (artifact id: 'c92488f6c76d5e76387abccc3a36dbe0') in 0.000519 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 1947.168940 seconds.
+  path: Assets/PreFabs/Level1.prefab
+  artifactKey: Guid(8ff7852c979301f4b89a0c937978bafa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PreFabs/Level1.prefab using Guid(8ff7852c979301f4b89a0c937978bafa) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '2f734da0b225f06926757b354d423249') in 0.075603 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 54
